@@ -1,0 +1,27 @@
+{
+  "name": "vue3-vite4-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1847016090/vue3-vite4-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1847016090/vue3-vite4-ts/issues"
+  },
+  "homepage": "https://github.com/1847016090/vue3-vite4-ts#readme",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "vue": "^3.4.32"
+  }
+}
