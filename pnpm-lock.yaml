@@ -1,11 +1,13 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@micro-zoe/micro-app': 1.0.0-rc.5
   '@vitejs/plugin-vue': ^5.0.5
   vite: ^5.3.4
   vue: ^3.4.32
 
 dependencies:
+  '@micro-zoe/micro-app': 1.0.0-rc.5
   vue: 3.4.32
 
 devDependencies:
@@ -246,6 +248,10 @@ packages:
 
   /@jridgewell/sourcemap-codec/1.5.0:
     resolution: {integrity: sha512-gv3ZRaISU3fjPAgNsriBRqGWQL6quFx04YMPW/zD8XMLsU32mhCCbfbO6KZFLjvYpCZ8zyDEgqsgf+PwPaM7GQ==}
+
+  /@micro-zoe/micro-app/1.0.0-rc.5:
+    resolution: {integrity: sha512-Z7Qkp1ZxFc04UYkR6UYPorg/VgACvE0E0Y8tyOKfR9AZmvoSNPdv4TpBFv3FRoYcvMlXW8TnEXhxL1VmCbL+2w==}
+    dev: false
 
   /@rollup/rollup-android-arm-eabi/4.18.1:
     resolution: {integrity: sha512-lncuC4aHicncmbORnx+dUaAgzee9cm/PbIqgWz1PpXuwc+sa1Ct83tnqUDy/GFKleLiN7ZIeytM6KJ4cAn1SxA==}
